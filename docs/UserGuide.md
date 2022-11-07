@@ -567,6 +567,17 @@ Filters for internship applications of the specified [application status](#appli
 <div class="me-3">
   <span class="badge text-bg-info">INFO</span>
 </div>
+<div markdown="span">
+**Usage of <code>filter</code> command**<br>
+<code>filter</code> command filter internship applications from the original list instead of the current list.
+</div>
+</div>
+
+
+<div class="d-flex alert alert-info">
+<div class="me-3">
+  <span class="badge text-bg-info">INFO</span>
+</div>
 <div>
 <b><code><b>filter</b></code> vs <code><b>find</b></code></b><br>
 <code>filter</code> and <code>find</code> commands may seem similar, here are some differences to take note of:<br>
